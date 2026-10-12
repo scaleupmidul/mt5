@@ -1,0 +1,3 @@
+# GEP-5 Python Requirements
+# Note: MetaTrader5 is official MetaQuotes Windows library (requires 64-bit Python 3.8 - 3.12 on Windows)
+MetaTrader5>=5.0.45
